@@ -30,7 +30,7 @@
 - ![img](./assets/anh_minh_hoa.jpg)
 
 ### Video 
-- [Link video](./assets/demo_video.mp4)
+- https://github.com/nguyenha-meiii/RadarMonitor/blob/main/assets/demo_video.mp4
 
 
 ## D. DANH SÁCH LINH KIỆN

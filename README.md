@@ -1,6 +1,6 @@
 # BÁO CÁO BÀI TẬP LỚN - HỆ NHÚNG (IT4210 )
 
-## MỤC LỤC 
+##  MỤC LỤC
 - [A. TÁC GIẢ](#A-TÁC-GIẢ)
 - [B. GIỚI THIỆU](#B-GIỚI-THIỆU)
 - [C. HƯỚNG DẪN SỬ DỤNG](#C-HƯỚNG-DẪN-SỬ-DỤNG)
@@ -30,7 +30,7 @@
 - ![img](./assets/anh_minh_hoa.jpg)
 
 ### Video 
-- https://github.com/nguyenha-meiii/RadarMonitor/blob/main/assets/demo_video.mp4
+- [Link video](./assets/demo_video.mp4)
 
 
 ## D. DANH SÁCH LINH KIỆN

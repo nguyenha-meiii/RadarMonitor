@@ -30,7 +30,7 @@
 - ![img](./assets/anh_minh_hoa.jpg)
 
 ### Video 
-- [Link video](./assets/demo_video.mp4)
+- [Link video](https://youtube.com/shorts/-hk8ubJkgGY?feature=share)
 
 
 ## D. DANH SÁCH LINH KIỆN
